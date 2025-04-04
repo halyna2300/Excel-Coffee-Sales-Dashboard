@@ -1,4 +1,6 @@
-# Excel-Coffee-Sales-Dashboard
+# Excel-Coffee-Sales-Dashboard ☕
+
+![Coffee Sales Dashboard](https://github.com/halyna2300/Excel-Coffee-Sales-Dashboard/raw/main/cofee%20sales%20pic.jpg)
 
 
 ## Project Overview
