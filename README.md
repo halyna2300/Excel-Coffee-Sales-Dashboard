@@ -1,7 +1,8 @@
-# Excel-Coffee-Sales-Dashboard ☕
+<h1 align="center">Excel-Coffee-Sales-Dashboard</h1>
 
-![Coffee Sales Dashboard](https://github.com/halyna2300/Excel-Coffee-Sales-Dashboard/raw/main/cofee%20sales%20pic.jpg)
-
+<p align="center">
+  <img src="https://github.com/halyna2300/Excel-Coffee-Sales-Dashboard/raw/main/cofee%20sales%20pic.jpg" alt="Coffee Sales Dashboard" width="800"/>
+</p>
 
 ## Project Overview
 This project focuses on cleaning, preparing, and analyzing coffee sales data to uncover business insights and build an interactive dashboard. The goal is to support decision-making through data-driven insights on customer behavior, product performance, and regional sales trends.
