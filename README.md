@@ -1,7 +1,7 @@
 <h1 align="center">Excel-Coffee-Sales-Dashboard</h1>
 
 <p align="center">
-  <img src="https://github.com/halyna2300/Excel-Coffee-Sales-Dashboard/raw/main/cofee%20sales%20pic.jpg" alt="Coffee Sales Dashboard" width="800"/>
+  <img src="https://github.com/halyna2300/Excel-Coffee-Sales-Dashboard/blob/main/Coffee%20Sales%20Dashboard%20Picture.jpg"/>
 </p>
 
 ## Project Overview
